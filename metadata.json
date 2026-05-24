@@ -1,0 +1,6 @@
+{
+  "name": "סמארט-מרקט",
+  "description": "אפליקציה מתקדמת להשוואת מחירי קניות בין חנויות לפי ערים ורשתות שיווק, כולל סריקת ברקוד אונליין ועדכוני מחירים בזמן אמת בטבלה השוואתית ונוחה לשימוש.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
